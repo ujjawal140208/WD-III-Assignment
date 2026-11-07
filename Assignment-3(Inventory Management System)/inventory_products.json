@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "sku": "ELEC-MOU-001",
+    "category": "Electronics",
+    "price": 799,
+    "quantity": 35,
+    "reorderLevel": 10,
+    "supplier": "Logitech India"
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "sku": "ELEC-KEY-002",
+    "category": "Electronics",
+    "price": 2499,
+    "quantity": 18,
+    "reorderLevel": 5,
+    "supplier": "Keychron"
+  },
+  {
+    "name": "Full HD Monitor",
+    "sku": "ELEC-MON-003",
+    "category": "Electronics",
+    "price": 8999,
+    "quantity": 4,
+    "reorderLevel": 6,
+    "supplier": "Acer India"
+  },
+  {
+    "name": "USB-C Hub",
+    "sku": "ELEC-HUB-004",
+    "category": "Electronics",
+    "price": 1299,
+    "quantity": 2,
+    "reorderLevel": 8,
+    "supplier": "Portronics"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "sku": "ELEC-SPK-005",
+    "category": "Electronics",
+    "price": 1799,
+    "quantity": 22,
+    "reorderLevel": 6,
+    "supplier": "JBL India"
+  },
+  {
+    "name": "Office Chair",
+    "sku": "FURN-CHR-001",
+    "category": "Furniture",
+    "price": 5499,
+    "quantity": 12,
+    "reorderLevel": 3,
+    "supplier": "IKEA India"
+  },
+  {
+    "name": "Study Table",
+    "sku": "FURN-TBL-002",
+    "category": "Furniture",
+    "price": 3999,
+    "quantity": 3,
+    "reorderLevel": 4,
+    "supplier": "IKEA India"
+  },
+  {
+    "name": "Bookshelf",
+    "sku": "FURN-BKS-003",
+    "category": "Furniture",
+    "price": 2899,
+    "quantity": 9,
+    "reorderLevel": 4,
+    "supplier": "Home Centre"
+  },
+  {
+    "name": "Notebook Pack",
+    "sku": "STAT-NOT-001",
+    "category": "Stationery",
+    "price": 180,
+    "quantity": 60,
+    "reorderLevel": 15,
+    "supplier": "Classmate"
+  },
+  {
+    "name": "Gel Pen Pack",
+    "sku": "STAT-PEN-002",
+    "category": "Stationery",
+    "price": 120,
+    "quantity": 7,
+    "reorderLevel": 10,
+    "supplier": "Cello Pens"
+  },
+  {
+    "name": "A4 Paper Ream",
+    "sku": "STAT-PAP-003",
+    "category": "Stationery",
+    "price": 299,
+    "quantity": 28,
+    "reorderLevel": 8,
+    "supplier": "JK Paper"
+  },
+  {
+    "name": "Cotton T-Shirt",
+    "sku": "APP-TSH-001",
+    "category": "Apparel",
+    "price": 499,
+    "quantity": 42,
+    "reorderLevel": 10,
+    "supplier": "Urban Basics"
+  },
+  {
+    "name": "Running Shoes",
+    "sku": "APP-SHO-002",
+    "category": "Apparel",
+    "price": 2199,
+    "quantity": 16,
+    "reorderLevel": 5,
+    "supplier": "Campus"
+  },
+  {
+    "name": "Denim Jeans",
+    "sku": "APP-JEA-003",
+    "category": "Apparel",
+    "price": 1499,
+    "quantity": 6,
+    "reorderLevel": 8,
+    "supplier": "Roadster"
+  },
+  {
+    "name": "Water Bottle",
+    "sku": "HOME-BOT-001",
+    "category": "Home & Kitchen",
+    "price": 349,
+    "quantity": 5,
+    "reorderLevel": 5,
+    "supplier": "Milton"
+  },
+  {
+    "name": "Storage Container Set",
+    "sku": "HOME-CON-002",
+    "category": "Home & Kitchen",
+    "price": 699,
+    "quantity": 24,
+    "reorderLevel": 6,
+    "supplier": "Cello"
+  },
+  {
+    "name": "Electric Kettle",
+    "sku": "HOME-KET-003",
+    "category": "Home & Kitchen",
+    "price": 1199,
+    "quantity": 11,
+    "reorderLevel": 4,
+    "supplier": "Prestige"
+  },
+  {
+    "name": "LED Desk Lamp",
+    "sku": "HOME-LMP-004",
+    "category": "Home & Kitchen",
+    "price": 899,
+    "quantity": 3,
+    "reorderLevel": 5,
+    "supplier": "Wipro"
+  },
+  {
+    "name": "External SSD 1TB",
+    "sku": "ELEC-SSD-006",
+    "category": "Electronics",
+    "price": 6499,
+    "quantity": 8,
+    "reorderLevel": 4,
+    "supplier": "Samsung"
+  },
+  {
+    "name": "Laptop Stand",
+    "sku": "ACC-STN-001",
+    "category": "Accessories",
+    "price": 999,
+    "quantity": 19,
+    "reorderLevel": 5,
+    "supplier": "Portronics"
+  }
+]
